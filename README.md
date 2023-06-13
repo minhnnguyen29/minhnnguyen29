@@ -5,7 +5,7 @@
 -->
 
 # 💫 About Me:
-🔭 I’m currently working on some personal Java projects. <br>🌱 I’m currently learning more about backend development.<br>💬 Ask me about my diet, my gym routine, my home office setup and any outfit inspo.  <br>📫 How to reach me: via my Linkedin, you will never hear back from me on social media. <br>😄 Pronouns: She/Her<br>⚡ Fun fact: I can finish my meal in 10mins.
+🔭 I’m currently working on some personal projects. <br>🌱 I’m currently learning more React.<br>💬 Ask me about my diet, my gym routine, my home office setup and any outfit inspo.  <br>📫 How to reach me: via my Linkedin, you will never hear back from me on social media. <br>😄 Pronouns: She/Her<br>⚡ Fun fact: I can finish my meal in 10mins.
 
 
 ## 🌐 Socials:
